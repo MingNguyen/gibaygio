@@ -1,0 +1,3 @@
+# gibaygio
+
+prepare -> training -> predict
